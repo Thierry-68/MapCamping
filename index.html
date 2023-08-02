@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sandaya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div id="groupeOrig">
+            <label for="iptOrig">Origine</label>
+            <input type="text" id="iptOrig">
+        </div>
+        <div id="groupeDest">
+            <label for="iptDest">Destination</label>
+            <input type="text" id="iptDest">
+        </div>
+        <div id="groupeRech">
+            <button id="btnRech">Recherche</button>
+        </div>
+    </header>
+    <section>
+        <img src="20230714_153655.jpg" width="2048" height="1152" border="0" />
+        <div id="container_area">
+        </div>
+    </section>
+
+    <script>
+        console.log("javascript is ok !");      
+        const url = "[20230714_153655].json";
+        let area = {};
+        let currentarea;
+        fetch(url).then(function (response) {
+            response.json().then(function (area) {
+                for (const [key, value] of Object.entries(area)) {
+                    value.forEach(element => {
+                        add_div_area(element['_target'], element['_coords']);                       
+                    });
+                }
+                const buttonRech = document.getElementById("btnRech");
+                buttonRech.addEventListener("click",function(){
+                    const divDest = document.getElementById("iptDest").value;
+                    const divOrig = document.getElementById("iptOrig").value;
+                    const areaOrig = document.getElementById("num_"+divOrig.padStart(3,"0"));
+                    const oldActif = document.getElementsByClassName("origine");
+                    if (oldActif.length !== 0){                        
+                    oldActif[0].classList.remove("origine");
+                    }
+                    areaOrig.classList.add("origine");  
+                    const areaDest = document.getElementById("num_"+divDest.padStart(3,"0"));
+                    const oldDest = document.getElementsByClassName("destination");
+                    if (oldDest.length !== 0){                        
+                        oldDest[0].classList.remove("destination");
+                    }
+                    areaDest.classList.add("destination");
+                })        
+            });
+        });
+        
+
+        function add_div_area(id, coords) {
+            const divarea = document.createElement("div");
+            const container_area = document.getElementById("container_area");
+            const currentCoords = coords.split(",");
+            const valueTop = currentCoords[1];
+            const valueLeft = currentCoords[0];
+            divarea.setAttribute("id",id);
+            divarea.setAttribute("class","area");
+            divarea.setAttribute("style","top:"+valueTop+"px; left:"+valueLeft+"px;")         
+            container_area.appendChild(divarea);
+        }
+
+
+    </script>
+</body>
+
+</html>

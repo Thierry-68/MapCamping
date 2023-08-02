@@ -1,0 +1,22 @@
+{
+        "area": [
+            {
+                "-shape": "circle",
+                "-coords": "232,307,12",
+                "-target": "num-001",
+                "-href": "#"
+            },
+            {
+                "-shape": "circle",
+                "-coords": "268,309,5",
+                "-target": "num-002",
+                "-href": "#"
+            },
+            {
+                "-shape": "circle",
+                "-coords": "298,311,5",
+                "-target": "num-003",
+                "-href": "#"
+            }
+        ]
+}

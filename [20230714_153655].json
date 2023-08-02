@@ -1,0 +1,2338 @@
+{
+      "area": [
+         {
+            "_shape": "circle",
+            "_coords": "240,315,5",
+            "_target": "num_001",
+            "_href": "#"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "268,309,5",
+            "_target": "num_002",
+            "_href": "#"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "298,311,5",
+            "_target": "num_002",
+            "_href": "#"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "322,307,5",
+            "_target": "num_004",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "349,307,5",
+            "_target": "num_005",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "376,308,5",
+            "_target": "num_006",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "232,343,5",
+            "_target": "num_007",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "261,345,5",
+            "_target": "num_008",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "284,390,5",
+            "_target": "num_011",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "257,392,5",
+            "_target": "num_010",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "260,423,5",
+            "_target": "num_013",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "285,422,5",
+            "_target": "num_014",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "252,464,5",
+            "_target": "num_025",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "280,464,5",
+            "_target": "num_026",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "306,464,5",
+            "_target": "num_027",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "339,478,5",
+            "_target": "num_028",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "328,347,5",
+            "_target": "num_015",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "369,348,5",
+            "_target": "num_016",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "329,374,5",
+            "_target": "num_017",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "378,374,5",
+            "_target": "num_018",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "328,397,5",
+            "_target": "num_019",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "373,398,5",
+            "_target": "num_020",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "325,423,5",
+            "_target": "num_021",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "365,420,5",
+            "_target": "num_022",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "356,443,5",
+            "_target": "num_023",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "254,496,5",
+            "_target": "num_030",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "283,495,5",
+            "_target": "num_031",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "310,496,5",
+            "_target": "num_032",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "255,535,5",
+            "_target": "num_035",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "282,536,5",
+            "_target": "num_036",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "307,535,5",
+            "_target": "num_037",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "276,563,5",
+            "_target": "num_039",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "307,565,5",
+            "_target": "num_040",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "288,585,5",
+            "_target": "num_041",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "253,601,5",
+            "_target": "num_043",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "233,648,5",
+            "_target": "num_045",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "259,655,5",
+            "_target": "num_046",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "287,657,5",
+            "_target": "num_047",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "312,656,5",
+            "_target": "num_048",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "307,619,5",
+            "_target": "num_055",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "337,656,5",
+            "_target": "num_049",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "358,654,5",
+            "_target": "num_050",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "378,655,5",
+            "_target": "num_051",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "401,654,5",
+            "_target": "num_052",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "433,656,5",
+            "_target": "num_054",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "330,611,5",
+            "_target": "num_056",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "355,609,5",
+            "_target": "num_057",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "377,609,5",
+            "_target": "num_058",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "399,606,5",
+            "_target": "num_059",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "423,606,5",
+            "_target": "num_060",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "445,604,5",
+            "_target": "num_061",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "411,560,5",
+            "_target": "num_062",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "410,534,5",
+            "_target": "num_065",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "410,534,5",
+            "_target": "num_066",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "439,560,5",
+            "_target": "num_063",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "437,533,5",
+            "_target": "num_066",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "467,558,5",
+            "_target": "num_064",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "472,534,5",
+            "_target": "num_067",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "386,495,5",
+            "_target": "num_069",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "396,468,5",
+            "_target": "num_068",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "417,491,5",
+            "_target": "num_070",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "443,490,5",
+            "_target": "num_071",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "470,488,5",
+            "_target": "num_072",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "495,489,5",
+            "_target": "num_073",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "518,483,5",
+            "_target": "num_074",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "544,483,5",
+            "_target": "num_075",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "574,483,5",
+            "_target": "num_076",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "604,480,5",
+            "_target": "num_077",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "634,477,5",
+            "_target": "num_078",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "663,478,5",
+            "_target": "num_079",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "699,452,5",
+            "_target": "num_080",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "529,525,5",
+            "_target": "num_081",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "556,524,5",
+            "_target": "num_082",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "525,552,5",
+            "_target": "num_086",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "555,554,5",
+            "_target": "num_087",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "595,523,5",
+            "_target": "num_083",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "508,575,5",
+            "_target": "num_091",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "530,587,5",
+            "_target": "num_092",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "559,591,5",
+            "_target": "num_093",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "583,591,5",
+            "_target": "num_094",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "591,556,5",
+            "_target": "num_088",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "607,590,5",
+            "_target": "num_095",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "632,590,5",
+            "_target": "num_096",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "621,554,5",
+            "_target": "num_089",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "622,523,5",
+            "_target": "num_084",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "621,554,5",
+            "_target": "num_085",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "621,554,5",
+            "_target": "num_089",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "650,523,5",
+            "_target": "num_085",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "650,554,5",
+            "_target": "num_090",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "666,585,5",
+            "_target": "num_097",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "481,608,5",
+            "_target": "num_098",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "503,619,5",
+            "_target": "num_099",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "469,656,5",
+            "_target": "num_100",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "504,661,5",
+            "_target": "num_101",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "526,628,5",
+            "_target": "num_102",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "539,661,5",
+            "_target": "num_103",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "559,632,5",
+            "_target": "num_104",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "568,660,5",
+            "_target": "num_105",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "599,630,5",
+            "_target": "num_106",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "598,660,5",
+            "_target": "num_107",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "624,630,5",
+            "_target": "num_108",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "626,660,5",
+            "_target": "num_109",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "657,630,5",
+            "_target": "num_110",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "656,660,5",
+            "_target": "num_111",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "689,660,5",
+            "_target": "num_116",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "690,618,5",
+            "_target": "num_114",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "721,597,5",
+            "_target": "num_113",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "722,624,5",
+            "_target": "num_115",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "732,661,5",
+            "_target": "num_118",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "763,639,5",
+            "_target": "num_121",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "763,600,5",
+            "_target": "num_123",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "715,558,5",
+            "_target": "num_125",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "740,556,5",
+            "_target": "num_126",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "765,556,5",
+            "_target": "num_127",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "716,524,5",
+            "_target": "num_130",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "741,523,5",
+            "_target": "num_131",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "766,524,5",
+            "_target": "num_132",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "739,476,5",
+            "_target": "num_160",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "767,476,5",
+            "_target": "num_161",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "765,445,5",
+            "_target": "num_159",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "736,438,5",
+            "_target": "num_158",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "761,415,5",
+            "_target": "num_157",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "711,393,5",
+            "_target": "num_155",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "739,382,5",
+            "_target": "num_152",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "771,379,5",
+            "_target": "num_150",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "701,347,5",
+            "_target": "num_154",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "741,347,5",
+            "_target": "num_151",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "787,346,5",
+            "_target": "num_149",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "799,379,5",
+            "_target": "num_148",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "832,345,5",
+            "_target": "num_147",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "877,344,5",
+            "_target": "num_144",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "922,342,5",
+            "_target": "num_142",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "833,379,5",
+            "_target": "num_146",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "867,379,5",
+            "_target": "num_141",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "862,410,5",
+            "_target": "num_140",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "823,414,5",
+            "_target": "num_139",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "805,444,5",
+            "_target": "num_137",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "791,523,5",
+            "_target": "num_133",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "791,553,5",
+            "_target": "num_128",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "685,299,5",
+            "_target": "num_162",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "725,298,5",
+            "_target": "num_164",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "763,297,5",
+            "_target": "num_165",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "801,297,5",
+            "_target": "num_167",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "833,298,5",
+            "_target": "num_168",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "859,294,5",
+            "_target": "num_169",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "887,295,5",
+            "_target": "num_170",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "910,294,5",
+            "_target": "num_171",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "934,295,5",
+            "_target": "num_172",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "960,294,5",
+            "_target": "num_173",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "989,293,5",
+            "_target": "num_175",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "987,333,5",
+            "_target": "num_174",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1021,288,5",
+            "_target": "num_177",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1061,284,5",
+            "_target": "num_178",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1105,282,5",
+            "_target": "num_180",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1135,283,5",
+            "_target": "num_181",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1162,283,5",
+            "_target": "num_182",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1187,284,5",
+            "_target": "num_272",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1210,283,5",
+            "_target": "num_273",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1233,282,5",
+            "_target": "num_274",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1258,283,5",
+            "_target": "num_275",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1283,282,5",
+            "_target": "num_276",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1307,282,5",
+            "_target": "num_277",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1334,280,5",
+            "_target": "num_278",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1362,281,5",
+            "_target": "num_279",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1390,280,5",
+            "_target": "num_280",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1421,278,5",
+            "_target": "num_345",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1453,276,5",
+            "_target": "num_346",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1483,275,5",
+            "_target": "num_347",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1516,271,5",
+            "_target": "num_348",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "935,397,5",
+            "_target": "num_184",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "957,385,5",
+            "_target": "num_185",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "985,394,5",
+            "_target": "num_186",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1072,336,5",
+            "_target": "num_189",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1117,334,5",
+            "_target": "num_188",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1101,357,5",
+            "_target": "num_190",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1050,366,5",
+            "_target": "num_191",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1037,386,5",
+            "_target": "num_193",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1024,407,5",
+            "_target": "num_195",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1014,424,5",
+            "_target": "num_197",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1086,379,5",
+            "_target": "num_192",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1072,402,5",
+            "_target": "num_194",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1059,422,5",
+            "_target": "num_196",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1048,441,5",
+            "_target": "num_198",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1084,456,5",
+            "_target": "num_199",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1083,480,5",
+            "_target": "num_200",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1058,506,5",
+            "_target": "num_201",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1089,507,5",
+            "_target": "num_203",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1083,535,5",
+            "_target": "num_204",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1071,567,5",
+            "_target": "num_205",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1098,559,5",
+            "_target": "num_206",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1075,602,5",
+            "_target": "num_207",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1104,595,5",
+            "_target": "num_208",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1078,631,5",
+            "_target": "num_209",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1099,666,5",
+            "_target": "num_211",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1127,653,5",
+            "_target": "num_212",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1159,667,5",
+            "_target": "num_213",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1193,639,5",
+            "_target": "num_235",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1192,671,5",
+            "_target": "num_237",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1217,639,5",
+            "_target": "num_300",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1217,671,5",
+            "_target": "num_241",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1245,670,5",
+            "_target": "num_301",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1272,670,5",
+            "_target": "num_302",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1299,669,5",
+            "_target": "num_303",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1328,669,5",
+            "_target": "num_304",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1355,669,5",
+            "_target": "num_305",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1397,669,5",
+            "_target": "num_306",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1441,671,5",
+            "_target": "num_307",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1185,598,5",
+            "_target": "num_234",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1147,580,5",
+            "_target": "num_231",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1183,575,5",
+            "_target": "num_232",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1144,557,5",
+            "_target": "num_229",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1178,552,5",
+            "_target": "num_230",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1142,534,5",
+            "_target": "num_227",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1174,529,5",
+            "_target": "num_228",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1135,512,5",
+            "_target": "num_225",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1172,507,5",
+            "_target": "num_226",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1131,489,5",
+            "_target": "num_223",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1167,484,5",
+            "_target": "num_224",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1128,468,5",
+            "_target": "num_221",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1162,462,5",
+            "_target": "num_222",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1123,445,5",
+            "_target": "num_219",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1159,439,5",
+            "_target": "num_220",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1120,420,5",
+            "_target": "num_217",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1157,415,5",
+            "_target": "num_218",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1122,399,5",
+            "_target": "num_215",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1153,389,5",
+            "_target": "num_216",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1149,362,5",
+            "_target": "num_214",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1243,392,5",
+            "_target": "num_259",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1193,338,5",
+            "_target": "num_262",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1236,337,5",
+            "_target": "num_266",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1285,337,5",
+            "_target": "num_265",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1202,393,5",
+            "_target": "num_260",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1287,394,5",
+            "_target": "num_269",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1214,443,5",
+            "_target": "num_255",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1265,440,5",
+            "_target": "num_256",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1216,478,5",
+            "_target": "num_253",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1254,477,5",
+            "_target": "num_254",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1255,503,5",
+            "_target": "num_252",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1222,529,5",
+            "_target": "num_249",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1255,528,5",
+            "_target": "num_250",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1224,554,5",
+            "_target": "num_247",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1256,553,5",
+            "_target": "num_248",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1228,579,5",
+            "_target": "num_245",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1257,576,5",
+            "_target": "num_246",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1230,604,5",
+            "_target": "num_243",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1257,599,5",
+            "_target": "num_244",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1301,618,5",
+            "_target": "num_298",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1332,621,5",
+            "_target": "num_299",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1299,594,5",
+            "_target": "num_296",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1331,593,5",
+            "_target": "num_297",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1299,566,5",
+            "_target": "num_294",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1331,565,5",
+            "_target": "num_295",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1329,505,5",
+            "_target": "num_293",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1296,504,5",
+            "_target": "num_292",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1317,478,5",
+            "_target": "num_291",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1330,455,5",
+            "_target": "num_290",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1335,432,5",
+            "_target": "num_289",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1379,435,5",
+            "_target": "num_321",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1381,464,5",
+            "_target": "num_320",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1382,492,5",
+            "_target": "num_319",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1335,406,5",
+            "_target": "num_287",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1366,405,5",
+            "_target": "num_288",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1367,378,5",
+            "_target": "num_286",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1334,378,5",
+            "_target": "num_285",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1365,353,5",
+            "_target": "num_284",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1334,353,5",
+            "_target": "num_283",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1365,331,5",
+            "_target": "num_282",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1335,325,5",
+            "_target": "num_281",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1371,520,5",
+            "_target": "num_316",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1398,517,5",
+            "_target": "num_317",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1371,549,5",
+            "_target": "num_314",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1401,548,5",
+            "_target": "num_315",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1371,576,5",
+            "_target": "num_312",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1403,574,5",
+            "_target": "num_313",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1372,600,5",
+            "_target": "num_310",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1406,599,5",
+            "_target": "num_311",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1372,626,5",
+            "_target": "num_308",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1406,627,5",
+            "_target": "num_309",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1448,624,5",
+            "_target": "num_341",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1474,608,5",
+            "_target": "num_342",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1488,575,5",
+            "_target": "num_340",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1450,579,5",
+            "_target": "num_339",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1443,549,5",
+            "_target": "num_336",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1470,548,5",
+            "_target": "num_337",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1496,544,5",
+            "_target": "num_338",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1440,509,5",
+            "_target": "num_333",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1467,504,5",
+            "_target": "num_334",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1497,502,5",
+            "_target": "num_335",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1437,479,5",
+            "_target": "num_330",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1465,477,5",
+            "_target": "num_331",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1498,472,5",
+            "_target": "num_332",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1417,413,5",
+            "_target": "num_322",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1446,409,5",
+            "_target": "num_323",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1476,406,5",
+            "_target": "num_324",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1503,404,5",
+            "_target": "num_325",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1421,439,5",
+            "_target": "num_326",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1447,436,5",
+            "_target": "num_327",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1476,435,5",
+            "_target": "num_328",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1502,431,5",
+            "_target": "num_329",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1553,275,5",
+            "_target": "num_349",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1592,276,5",
+            "_target": "num_350",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1636,273,5",
+            "_target": "num_351",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1687,266,5",
+            "_target": "num_352",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1730,257,5",
+            "_target": "num_353",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1760,266,5",
+            "_target": "num_354",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1795,253,5",
+            "_target": "num_355",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1824,270,5",
+            "_target": "num_356",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1542,336,5",
+            "_target": "num_357",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1591,330,5",
+            "_target": "num_361",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1632,333,5",
+            "_target": "num_363",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1616,355,5",
+            "_target": "num_362",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1530,404,5",
+            "_target": "num_358",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1559,396,5",
+            "_target": "num_359",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1585,407,5",
+            "_target": "num_360",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1546,447,5",
+            "_target": "num_377",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1541,484,5",
+            "_target": "num_378",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1528,519,5",
+            "_target": "num_379",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1530,555,5",
+            "_target": "num_380",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1572,526,5",
+            "_target": "num_381",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1609,489,5",
+            "_target": "num_383",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1641,482,5",
+            "_target": "num_385",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1607,448,5",
+            "_target": "num_382",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1644,444,5",
+            "_target": "num_384",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1640,408,5",
+            "_target": "num_365",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1698,424,5",
+            "_target": "num_386",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1693,464,5",
+            "_target": "num_387",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1650,529,5",
+            "_target": "num_399",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1675,514,5",
+            "_target": "num_398",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1708,512,5",
+            "_target": "num_397",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1723,470,5",
+            "_target": "num_388",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1723,398,5",
+            "_target": "num_372",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1693,322,5",
+            "_target": "num_366",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1726,336,5",
+            "_target": "num_367",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1759,320,5",
+            "_target": "num_368",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1771,346,5",
+            "_target": "num_369",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1695,364,5",
+            "_target": "num_364",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1734,362,5",
+            "_target": "num_371",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1768,373,5",
+            "_target": "num_370",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1758,420,5",
+            "_target": "num_373",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1797,411,5",
+            "_target": "num_374",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1792,436,5",
+            "_target": "num_375",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1759,452,5",
+            "_target": "num_376",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1769,506,5",
+            "_target": "num_396",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1806,503,5",
+            "_target": "num_395",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1831,473,5",
+            "_target": "num_394",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1843,446,5",
+            "_target": "num_393",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1850,408,5",
+            "_target": "num_392",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1850,374,5",
+            "_target": "num_391",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1836,338,5",
+            "_target": "num_390",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "1826,302,5",
+            "_target": "num_389",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "407,308,5",
+            "_target": "num_0A1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "432,308,5",
+            "_target": "num_0A2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "412,348,5",
+            "_target": "num_0A3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "433,348,5",
+            "_target": "num_0A4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "462,308,5",
+            "_target": "num_0B1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "490,306,5",
+            "_target": "num_0B2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "467,347,5",
+            "_target": "num_0B3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "492,348,5",
+            "_target": "num_0B4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "517,305,5",
+            "_target": "num_0C1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "543,304,5",
+            "_target": "num_0C2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "524,347,5",
+            "_target": "num_0C3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "545,346,5",
+            "_target": "num_0C4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "570,304,5",
+            "_target": "num_0D1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "597,303,5",
+            "_target": "num_0D2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "598,346,5",
+            "_target": "num_0D4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "623,301,5",
+            "_target": "num_0E1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "652,302,5",
+            "_target": "num_0E2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "630,343,5",
+            "_target": "num_0E3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "654,342,5",
+            "_target": "num_0E4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "417,413,5",
+            "_target": "num_0F1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "445,403,5",
+            "_target": "num_0F2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "418,449,5",
+            "_target": "num_0F3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "450,446,5",
+            "_target": "num_0F4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "476,402,5",
+            "_target": "num_0G1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "477,447,5",
+            "_target": "num_0G3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "503,445,5",
+            "_target": "num_0G4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "499,401,5",
+            "_target": "num_0G2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "528,400,5",
+            "_target": "num_0H1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "552,400,5",
+            "_target": "num_0H2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "531,443,5",
+            "_target": "num_0H3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "556,443,5",
+            "_target": "num_0H4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "582,397,5",
+            "_target": "num_0I1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "606,398,5",
+            "_target": "num_0I2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "584,443,5",
+            "_target": "num_0I3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "610,443,5",
+            "_target": "num_0I4",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "636,396,5",
+            "_target": "num_0J1",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "664,401,5",
+            "_target": "num_0J2",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "636,441,5",
+            "_target": "num_0J3",
+            "_nohref": "nohref"
+         },
+         {
+            "_shape": "circle",
+            "_coords": "664,440,5",
+            "_target": "num_0J4",
+            "_nohref": "nohref"
+         }
+      ]
+   }

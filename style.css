@@ -1,0 +1,67 @@
+﻿body {
+    background-color: beige;
+}
+
+.actif {
+    background-color: #F00;
+    z-index: 5;
+    display: block;
+    background-color:pink;
+}
+
+section{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+img{
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+
+#num-001{    
+    top:307px;
+    left:232px;    
+}
+
+#num-002{
+    top: 305px;
+    left: 265px;
+}
+
+#num-003{
+    /* 298,311 */
+    top: 305px;
+    left:295px;
+}
+
+#num-004{
+    /* 298,311 */
+    top: 305px;
+    left:316px;
+}
+
+.area{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    /* background-color: rgb(178, 189, 34); */
+    border-radius: 50%;
+    z-index: 5;
+}
+
+.origine{
+    background-color: rgb(235, 26, 26);
+}
+
+.destination{
+    background-color: #FF0;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    margin:10px 25vw;
+}
