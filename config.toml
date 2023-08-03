@@ -6,21 +6,11 @@ shutdown_timeout = 0
   session_timeout = 1800
 
 [[runners]]
-  name = "runner_mapCamping"
-  url = "https://gitlab.com"
-  id = 25687120
-  token = "glrt-4CRwozswvngpiFW7FqfG"
-  token_obtained_at = 2023-08-02T20:09:37Z
-  token_expires_at = 0001-01-01T00:00:00Z
-  executor = "shell"
-  shell = "pwsh"
-
-[[runners]]
   name = "map_camping"
   url = "https://gitlab.com"
-  id = 25688840
-  token = "glrt-pir87teQUaxhtauTyQQE"
-  token_obtained_at = 2023-08-02T21:53:43Z
+  id = 25689088
+  token = "glrt-h7nyH_S2kWALUykqBaFs"
+  token_obtained_at = 2023-08-02T22:21:46Z
   token_expires_at = 0001-01-01T00:00:00Z
   executor = "shell"
   shell = "pwsh"

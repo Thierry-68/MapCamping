@@ -13,12 +13,11 @@ completedColumns:
 
 ## Todo
 
-- [créer-le-dépot-git-lab](tasks/créer-le-dépot-git-lab.md)
-
 ## In Progress
 
-- [creer-la-fonction-javascript-pour-créer-les-points-de-chaque-emplacement](tasks/creer-la-fonction-javascript-pour-créer-les-points-de-chaque-emplacement.md)
+- [créer-le-dépot-git-lab](tasks/créer-le-dépot-git-lab.md)
 
 ## Done
 
+- [creer-la-fonction-javascript-pour-créer-les-points-de-chaque-emplacement](tasks/creer-la-fonction-javascript-pour-créer-les-points-de-chaque-emplacement.md)
 - [creer-la-carte-map](tasks/creer-la-carte-map.md)
