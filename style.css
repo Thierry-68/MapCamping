@@ -21,28 +21,6 @@ img{
     left:0px;
 }
 
-#num-001{    
-    top:307px;
-    left:232px;    
-}
-
-#num-002{
-    top: 305px;
-    left: 265px;
-}
-
-#num-003{
-    /* 298,311 */
-    top: 305px;
-    left:295px;
-}
-
-#num-004{
-    /* 298,311 */
-    top: 305px;
-    left:316px;
-}
-
 .area{
     position: absolute;
     width: 10px;
@@ -54,10 +32,12 @@ img{
 
 .origine{
     background-color: rgb(235, 26, 26);
+    animation: .5s linear 1s infinite alternate clignotant;
 }
 
 .destination{
     background-color: #FF0;
+    animation: .5s linear 1s infinite alternate clignotant;
 }
 
 header{
@@ -66,11 +46,26 @@ header{
     margin:10px 25vw;
 }
 
+@keyframes clignotant {
+  from {
+    width:10px;
+    height: 10px;
+}
+  to {
+    width: 25px;
+    height: 25px;
+    margin-top: -5px;
+    margin-left: -5px;    
+    }
+}
+
+
+
 @media (max-width: 720px) {
-    header{
-         
+    header{         
     display: flex;
     flex-direction: column;
+    float:left;
     }   
 
 }
