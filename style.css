@@ -59,13 +59,13 @@ header{
     }
 }
 
-
-
 @media (max-width: 720px) {
     header{         
     display: flex;
     flex-direction: column;
-    float:left;
+    position: relative;
+    top:0px;
+    left: 0px;
     }   
 
 }
