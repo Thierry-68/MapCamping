@@ -65,3 +65,12 @@ header{
     justify-content: space-around;
     margin:10px 25vw;
 }
+
+@media (max-width: 720px) {
+    header{
+         
+    display: flex;
+    flex-direction: column;
+    }   
+
+}
