@@ -22,57 +22,92 @@
             <button id="btnRech">Recherche</button>
         </div>
     </header>
-    <section>
-        <img src="20230714_153655.jpg" width="2048" height="1152" border="0" />
+    <div id="action_left" class="actionturn"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+            stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+        </svg>
+    </div>
+    <div id="action_right" class="actionturn"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+            stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+        </svg>
+    </div>
+    <section id="containerMap">
+
         <div id="container_area">
+            <img src="20230714_153655.jpg" width="2048" height="1152" border="0" />
         </div>
     </section>
 
     <script>
-        console.log("javascript is ok !");      
+        console.log("javascript is ok !");
         const url = "[20230714_153655].json";
         let area = {};
         let currentarea;
+        const actions = document.getElementsByClassName('actionturn');
+        const constainer_area = document.getElementById("container_area");
+        Object.keys(actions).forEach(function (action) {
+            actions[action].addEventListener("click", (e) => {
+                const div_action = e.currentTarget;
+                let value_pos = 0;
+                switch (div_action.id) {
+                    case "action_left":
+                        value_pos = parseInt((getComputedStyle(constainer_area).left).slice(0, -2));
+                        console.log(value_pos);
+                        value_pos = value_pos + (value_pos != 0 ? 160 : 0);
+                        console.log(value_pos);
+                        constainer_area.style.left = value_pos + "px";
+                        break;
+                    case "action_right":
+                        value_pos = parseInt((getComputedStyle(constainer_area).left).slice(0, -2));
+                        console.log(value_pos);
+                        value_pos = value_pos - (value_pos != -1920 ? 160 : 0);
+                        console.log(value_pos);
+                        constainer_area.style.left = value_pos + "px";
+                }
+            })
+        });
+
         fetch(url).then(function (response) {
             response.json().then(function (area) {
+                const sx = -100;
                 for (const [key, value] of Object.entries(area)) {
                     value.forEach(element => {
-                        add_div_area(element['_target'], element['_coords']);                       
+                        add_div_area(element['_target'], element['_coords'], sx);
                     });
                 }
                 const buttonRech = document.getElementById("btnRech");
-                buttonRech.addEventListener("click",function(){
+                buttonRech.addEventListener("click", function () {
                     const divDest = document.getElementById("iptDest").value;
                     const divOrig = document.getElementById("iptOrig").value;
-                    const areaOrig = document.getElementById("num_"+divOrig.padStart(3,"0"));
+                    const areaOrig = document.getElementById("num_" + divOrig.padStart(3, "0"));
                     const oldActif = document.getElementsByClassName("origine");
-                    if (oldActif.length !== 0){                        
-                    oldActif[0].classList.remove("origine");
+                    if (oldActif.length !== 0) {
+                        oldActif[0].classList.remove("origine");
                     }
-                    areaOrig.classList.add("origine");  
-                    const areaDest = document.getElementById("num_"+divDest.padStart(3,"0"));
+                    areaOrig.classList.add("origine");
+                    const areaDest = document.getElementById("num_" + divDest.padStart(3, "0"));
                     const oldDest = document.getElementsByClassName("destination");
-                    if (oldDest.length !== 0){                        
+                    if (oldDest.length !== 0) {
                         oldDest[0].classList.remove("destination");
                     }
                     areaDest.classList.add("destination");
-                })        
+                })
             });
         });
-        
 
-        function add_div_area(id, coords) {
+
+        function add_div_area(id, coords, sx) {
             const divarea = document.createElement("div");
             const container_area = document.getElementById("container_area");
             const currentCoords = coords.split(",");
             const valueTop = currentCoords[1];
-            const valueLeft = currentCoords[0];
-            divarea.setAttribute("id",id);
-            divarea.setAttribute("class","area");
-            divarea.setAttribute("style","top:"+valueTop+"px; left:"+valueLeft+"px;")         
+            const valueLeft = parseInt(currentCoords[0]);
+            divarea.setAttribute("id", id);
+            divarea.setAttribute("class", "area");
+            divarea.setAttribute("style", "top:" + valueTop + "px; left:" + valueLeft + "px;")
             container_area.appendChild(divarea);
         }
-
 
     </script>
 </body>

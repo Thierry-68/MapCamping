@@ -6,22 +6,22 @@
     background-color: #F00;
     z-index: 5;
     display: block;
-    background-color:pink;
+    background-color: pink;
 }
 
-section{
+section {
     width: 100vw;
     height: 100vh;
     position: relative;
 }
 
-img{
+img {
     position: absolute;
-    top:0px;
-    left:0px;
+    top: 0px;
+    left: 0px;
 }
 
-.area{
+.area {
     position: absolute;
     width: 10px;
     height: 10px;
@@ -30,42 +30,101 @@ img{
     z-index: 5;
 }
 
-.origine{
+.origine {
     background-color: rgb(235, 26, 26);
     animation: .5s linear 1s infinite alternate clignotant;
 }
 
-.destination{
+.destination {
     background-color: #FF0;
     animation: .5s linear 1s infinite alternate clignotant;
 }
 
-header{
+header {
     display: flex;
     justify-content: space-around;
-    margin:10px 25vw;
+    margin: 10px 25vw;
+}
+
+.actionturn {
+    display: none;
 }
 
 @keyframes clignotant {
-  from {
-    width:10px;
-    height: 10px;
-}
-  to {
-    width: 25px;
-    height: 25px;
-    margin-top: -5px;
-    margin-left: -5px;    
+    from {
+        width: 10px;
+        height: 10px;
+    }
+
+    to {
+        width: 25px;
+        height: 25px;
+        margin-top: -5px;
+        margin-left: -5px;
     }
 }
 
 @media (max-width: 720px) {
-    header{         
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    top:0px;
-    left: 0px;
-    }   
+    header {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        position: fixed;
+        z-index: 1;
+        top: 0px;
+        left: 0px;
+        background-color: #FFF;
+        width: 90%;
+        margin: 0px;
+        padding: 20px;
+    }
+
+    section {
+        width: 100vw;
+        overflow: hidden;
+        position: relative;
+    }
+
+    body {
+        overflow: hidden;
+    }
+
+    img {
+        position: absolute;
+        top: 0px;
+    }
+
+    #container_area {
+        position: absolute;
+        top: 0px;
+        left: -320px;
+    }
+
+    .actionturn {
+        display: block;
+        position: absolute;
+        top: 50%;
+        z-index: 2;
+        width: 100px;
+        color: #FFF;
+        opacity: 0.5;
+    }
+
+    #action_left{        
+        left: 10px;
+        cursor: pointer;
+    }
+
+    #action_right{
+        right: 10px;
+        cursor: pointer;
+    }
+
+    #groupeOrig,#groupeDest,#groupeRech{
+        width: 100% ;
+        display:flex;
+        justify-content: space-between;
+    }
+
 
 }
