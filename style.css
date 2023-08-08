@@ -81,14 +81,11 @@ header {
 
     section {
         width: 100vw;
-        overflow: hidden;
+        overflow-x: hidden;
         position: relative;
     }
 
-    body {
-        overflow: hidden;
-    }
-
+   
     img {
         position: absolute;
         top: 0px;
